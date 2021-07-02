@@ -1,7 +1,7 @@
 #print('This is a Git Test python program')
 
-status = input('is this your first push? ')
-if status == 'yes':
+ins = input('is this your first git activity? ')
+if ins == 'yes':
     print('Good')
 else:
     print('Try again')
