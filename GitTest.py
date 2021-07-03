@@ -7,3 +7,9 @@ if ins == 'yes':
 else:
     print('Try again')
     print('Keep try....')
+    thirsty = input('are you thirsty: ')
+    if thirsty == 'yes':
+        print('Have some water')
+        print('Have some Soda')
+    else:
+        print('Try again')
