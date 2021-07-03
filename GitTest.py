@@ -6,3 +6,4 @@ if ins == 'yes':
     print('wow.....')
 else:
     print('Try again')
+    print('Keep try....')
