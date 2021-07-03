@@ -5,4 +5,8 @@ if ins == 'yes':
     print('Good')
     print('wow.....')
 else:
-    print('Try again')
+    thirsty = input('are you thirsty: ')
+    if thirsty == 'yes':
+        print('Have some water')
+    else:
+        print('Try again')
