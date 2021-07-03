@@ -3,6 +3,6 @@
 ins = input('is this your first git activity? ')
 if ins == 'yes':
     print('Good')
-    print('Fabulous')
+    print('Fabulous.......')
 else:
     print('Try again')
