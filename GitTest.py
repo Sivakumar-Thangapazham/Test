@@ -1,3 +1,4 @@
+
 #print('This is a Git Test python program')
 
 ins = input('is this your first git activity? ')
@@ -13,3 +14,4 @@ else:
         print('Have some Soda')
     else:
         print('Try again')
+        print('Best of luck....')
