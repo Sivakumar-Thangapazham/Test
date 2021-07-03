@@ -8,5 +8,6 @@ else:
     thirsty = input('are you thirsty: ')
     if thirsty == 'yes':
         print('Have some water')
+        print('Have some Soda')
     else:
         print('Try again')
