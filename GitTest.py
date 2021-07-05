@@ -5,7 +5,8 @@ ins = input('is this your first git activity? ')
 if ins == 'yes':
     print('Good')
     print('wow.....')
-    print('added all positives....')
+    print('added all positives1....')
+    print('added all positives2....')
 else:
     print('Try again')
     print('Keep try....')
@@ -17,4 +18,4 @@ else:
     else:
         print('Try again')
         print('Best of luck....')
-        print('added at the end.....
+        print('added at the end.....')
