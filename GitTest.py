@@ -5,6 +5,7 @@ ins = input('is this your first git activity? ')
 if ins == 'yes':
     print('Good')
     print('wow.....')
+    print('added all positives....')
 else:
     print('Try again')
     print('Keep try....')
@@ -12,6 +13,7 @@ else:
     if thirsty == 'yes':
         print('Have some water')
         print('Have some Soda')
+        print('Have some Soda.................')
     else:
         print('Try again')
         print('Best of luck....')
